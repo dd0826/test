@@ -17,8 +17,7 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
-    NSLog(@"ceshi");
-    NSLog(@"ceshi wangli的账号");
+    NSLog(@"测试git--demo push,");
 }
 
 
