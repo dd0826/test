@@ -19,7 +19,6 @@
     // Override point for customization after application launch.
     
     NSLog(@"这是一个测试工程sss");
-    NSLog(@"111");
     return YES;
 }
 
